@@ -1,2 +1,4 @@
 # hello-world
-Yet another repository (YAR)
+Hello Humans
+
+I am Ayush Singh, Computer Science Grad at GWU. Data Science specialization.
